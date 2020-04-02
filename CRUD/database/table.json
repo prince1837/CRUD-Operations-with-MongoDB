@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5e819a2bbe337c2b2ff19020"},"name":"Shivnash","age":20,"status":"i am a coder","__v":0}
+{"_id":{"$oid":"5e819e8a676b2d2dfdbf0d9b"},"name":"Prakash","age":20,"status":"i am a learner","__v":0}
+{"_id":{"$oid":"5e81a9af1cdc0231a62cc3bb"},"name":"rohit","age":20,"status":"i am a student","__v":0}
+{"_id":{"$oid":"5e8333e0b53af849931952bc"},"name":"rohit sharma","age":29,"status":"i am a cricketer","__v":0}
+{"_id":{"$oid":"5e833432b53af849931952bd"},"name":"virat kholi","age":31,"status":"i am also a cricketer","__v":0}
+{"_id":{"$oid":"5e8415429f0e1809367955c8"},"name":"tariq","age":18,"status":"i am a student","__v":0}
+{"_id":{"$oid":"5e84156c9f0e1809367955c9"},"name":"prabhakar","age":18,"status":"i am a coder","__v":0}
+{"_id":{"$oid":"5e8415859f0e1809367955ca"},"name":"vishal","age":24,"status":"i am a singer","__v":0}
+{"_id":{"$oid":"5e8415e59f0e1809367955cb"},"name":"viresh","age":17,"status":"i am a beagner","__v":0}
