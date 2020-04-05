@@ -1,5 +1,4 @@
 const express=require('express')
-const axios=require('axios')
 const dotenv=require('dotenv').config()
 const port = process.env.port
 
